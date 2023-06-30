@@ -5,3 +5,5 @@ update22
 update3
 
 commit
+
+test merge func
