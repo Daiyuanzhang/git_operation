@@ -16,3 +16,7 @@ made a change
 
 
 conflic solved
+
+create newbranch2
+
+in newbranch2 add num1
