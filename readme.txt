@@ -17,3 +17,4 @@ made a change
 
 conflic solved
 
+push master in repository using vscode.
